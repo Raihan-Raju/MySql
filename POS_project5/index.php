@@ -61,6 +61,7 @@ if(isset($_POST["btnLogin"])){
             width: 100%;
             max-width: 450px; /* Limiting container width for better readability */
             margin-left: auto; /* Pushes the container to the right */
+            backdrop-filter: blur(10px);
             background-color: #81cbe9a2;
             border-radius: 30px;
             padding: 20px;

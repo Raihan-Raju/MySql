@@ -190,15 +190,15 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    padding: 25px;
+    padding: 5px;
     border-radius: 5px;
     
   }
   .card:first-child{
-    background-color: #0a77d1e8;
+    background-color: #55a7ebe8;
   }
   .card:nth-child(2){
-    background-color: #00a7a7;
+    background-color: #9df0f0;
   }
   .card:nth-child(3){
     background-color: #2e7d32;
